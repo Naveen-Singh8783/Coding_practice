@@ -1,3 +1,12 @@
+/*
+  *  
+ * * 
+*   *
+ * * 
+  *  
+  
+*/  
+
 import java.util.*;
 
 class diamondStarPattern{
