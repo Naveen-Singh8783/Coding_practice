@@ -1,3 +1,13 @@
+/*
+Pattern:
+    ******
+   *    *
+  *    *
+ *    *
+******
+
+*/
+
 import java.util.*;
 
 class hollowRhombus{

@@ -1,3 +1,14 @@
+/*
+Pattern:
+     *    
+    ***   
+   *****  
+  ******* 
+ *********
+
+ */
+
+
 import java.util.*;
 
 class triangle{
@@ -6,7 +17,7 @@ class triangle{
         System.out.print("Enter rows in odd value:");
         int rows = sc.nextInt();
         int star = 1;
-        int space = rows;
+        int space = rows
         for(int cur_row=1;cur_row<=rows;cur_row++){
             for(int col=1;col<=space;col++)
                          System.out.print(" ");
