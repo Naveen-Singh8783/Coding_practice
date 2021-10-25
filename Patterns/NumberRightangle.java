@@ -1,6 +1,6 @@
 import java.util.*;
 /*
-Pattern 1.
+Pattern:
 
 1
 2 3

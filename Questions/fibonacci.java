@@ -1,7 +1,3 @@
-/*
-Quesion: https://leetcode.com/problems/fibonacci-number/
-
-*/
 
 import java.util.*;
 
